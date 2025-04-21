@@ -8,7 +8,7 @@ PhishGuardian AI is a lightweight, real-time phishing email detector built using
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app]([https://phishguardian.streamlit.app](https://phishguardian-ai.streamlit.app/))  
+👉 [Click here to use the app][https://phishguardian-ai.streamlit.app/]  
 _(Replace with your actual Streamlit URL after deploying)_
 
 ---
