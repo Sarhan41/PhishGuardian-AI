@@ -1,3 +1,5 @@
+import sklearn
+print("✅ scikit-learn version:", sklearn.__version__)
 import streamlit as st
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.naive_bayes import MultinomialNB
