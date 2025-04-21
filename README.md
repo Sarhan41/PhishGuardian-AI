@@ -48,6 +48,13 @@ pip install -r requirements.txt
 # 3. Run the app
 streamlit run app.py
 
+<<<<<<< HEAD
+=======
+```
+---
+
+## Student Enrollment List
+>>>>>>> 241e870fe2d0010ac0f9410a56d111a054881def
 
 
 
