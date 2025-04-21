@@ -47,3 +47,13 @@ pip install -r requirements.txt
 
 # 3. Run the app
 streamlit run app.py
+
+## Student Enrollment List
+
+| Name           | Enrollment Number  |
+|----------------|--------------------|
+| Heli Patel     | 2202031000091      |
+| Krishna Patel  | 2202031000099      |
+| Sarhan Patel   | 2202031000104      |
+| Davda Jainam   | 2202031030135      |
+| Kishan Nayee   | 2202031000069      |
